@@ -114,3 +114,13 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+
+### How to run locally
+
+* Use `git clone https://github.com/Linda-Liu/Linda-Liu.github.io.git` to create a local copy.
+
+* Install `bundler` with `gem install bundler`.
+
+* Add `alias gitpage='bundle exec jekyll serve'` to ~/.bash_profile
+
+* Run `gitpage` within the website folder and open `http://127.0.0.1:4000` in a web browser.
