@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# News
----
-Oct. 2021: This website is online!
+Hi, I am a Ph.D. candidate in the EECS department at UC Berkeley, advised by Prof. Laura Waller. My research is in computational optics, which is a combination of optical hardware, physical modeling, optimization algorithms, and machine learning.
 
 ---
 # Research Projects
