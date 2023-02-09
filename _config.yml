@@ -1,11 +1,12 @@
 title: Fanglin Linda Liu
 googlescholar: https://scholar.google.com/citations?user=70xlCGkAAAAJ&hl=en
-email: fanglin_liu@berkeley.edu
+email: fanglinlfl@gmail.com
 cv: true
-logo: /assets/img/Linda.JPG
+logo: /assets/img/Linda.png
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-seo-tag

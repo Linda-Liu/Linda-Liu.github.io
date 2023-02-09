@@ -51,7 +51,7 @@ Optical engineer intern, 06/2020 -- 08/2020
 <br/><br/>
 
 ---
-# Community Services
+# Community Services, Teaching and Mentoring
 
 ### Chinese Graduate and Postdoctoral Scholars Association at UC Berkeley ([CGPSA](https://cgpsa.berkeley.edu))
 
@@ -63,10 +63,6 @@ President, 2018 -- 2019\\
 
 Officer, 2017 -- 2018\\
 <img src="/assets/img/wicse.png" width="150">
-<br/><br/>
-
----
-# Teaching
 
 
 ### Berkeley [EECS16A](https://eecs16a.org): Designing Informative Devices and Systems
