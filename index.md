@@ -15,7 +15,7 @@ Eric Markley*, __Fanglin Linda Liu*__(equal contribution), Michael Kellman, Nick
 We use a differentiable forward model of single-shot 3D microscopy in conjunction with an invertible and differentiable reconstruction algorithm, ISTA-Net<sup>+</sup>, to jointly optimize both the diffuser surface shape and the reconstruction parameters for Fourier DiffuserScope.  By choosing a differentiable and invertible reconstruction method, we enable the use of memory-efficient backpropagation to trade off storage with a reasonable increase in compute time, in order to fit an unrolled network containing a large-scale 3D volume into a single GPU's memory. 
 </p></ul>
 <center><a href="https://youtu.be/MNYIUbEIhEk?t=3932" target="_blank">
-<img src="/assets/img/ICCP2021.png" width="50%" height="5%" >
+<img src="/assets/img/ICCP2021.png" width="50%" height="5%"  alt="ICCP 2021 Presentation">
 </a></center>
 
 <br/><br/>
@@ -60,7 +60,7 @@ Optical engineer intern, 06/2020 -- 08/2020
 * ### Chinese Graduate and Postdoctoral Scholars Association at UC Berkeley (<a href="https://cgpsa.berkeley.edu" target="_blank">CGPSA</a>)
 <ul><table>
   <tr>
-    <td style="width:20%;border:none;"> <img src="/assets/img/cgpsa.jpeg" height="50"> </td>
+    <td style="width:20%;border:none;"> <img src="/assets/img/cgpsa.jpeg" height="50"  alt="CGPSA Logo"> </td>
     <td style="border:none;">President, 2018 -- 2019</td>
    </tr> 
 </table></ul>
@@ -68,7 +68,7 @@ Optical engineer intern, 06/2020 -- 08/2020
 * ### Women in Computer Science and Electrical Engineering (<a href="https://inst.eecs.berkeley.edu/~wicse/" target="_blank">WICSE</a>)
 <ul><table>
   <tr>
-    <td style="width:20%;border:none;"> <img src="/assets/img/wicse.png" height="30"> </td>
+    <td style="width:20%;border:none;"> <img src="/assets/img/wicse.png" height="30"  alt="WICSE Logo"> </td>
     <td style="border:none;">Officer, 2017 -- 2018</td>
    </tr> 
 </table></ul>
@@ -76,7 +76,7 @@ Optical engineer intern, 06/2020 -- 08/2020
 * ### Berkeley <a href="https://eecs16a.org" target="_blank">EECS16A</a>: Designing Informative Devices and Systems 
 <ul><table>
   <tr>
-    <td style="width:20%;border:none;"><img src="/assets/img/eecs16a.png" height="80"></td>
+    <td style="width:20%;border:none;"><img src="/assets/img/eecs16a.png" height="80"  alt="EECS16A Course Logo"></td>
     <td style="border:none;">Head Content TA, Spring 2019 <BR> Content TA, Fall 2021</td>
    </tr> 
 </table></ul>
