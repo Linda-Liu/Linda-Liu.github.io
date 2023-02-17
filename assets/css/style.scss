@@ -3,4 +3,26 @@
 ul {
   list-style-type: none;
 }
+
+img {
+    object-fit: contain
+}
+
+
+.icontext {
+        border: none;
+        display: inline-block;
+	width: 200px;
+        margin: 0px;
+        padding: 0px;
+      }
+      #text{
+	vertical-align: middle;
+        font-size: 16px;
+}
+      #icon {
+	vertical-align: middle;
+        font-size: 25px;
+      }
+
 @import "jekyll-theme-minimal";
