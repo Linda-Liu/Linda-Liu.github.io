@@ -51,7 +51,7 @@
 	{% if site.cv %}
 	<div class="icontext">
         <p class="view"><a href="{{ "/assets/files/Resume_LindaLiu.pdf" }}" target="_blank">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<i id=icon style="font-size:24px" class="fa">&#xf1c1;</i>
 	<span id="text">&nbsp; Resume</span>
 	</a></p></div>
@@ -66,8 +66,13 @@
 	</a></p></div>
         {% endif %}	
 
-	{% if site.linkedin %}
-        <p class="view"><a href="{{ site.linkedin }}" target="_blank">LinkedIn</a></p>
+        {% if site.linkedin %}
+	<div class="icontext">
+        <p class="view"><a href="{{ site.linkedin }}" target="_blank">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<i id=icon style="font-size:24px" class="fa">&#xf08c;</i>
+	<span id="text">&nbsp;LinkedIn</span>
+	</a></p></div>
         {% endif %}
 
         
