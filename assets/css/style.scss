@@ -8,6 +8,9 @@ img {
     object-fit: contain
 }
 
+.p2 {
+        font-family: Arial, Helvetica, sans-serif;
+      }
 
 .icontext {
         border: none;
@@ -26,3 +29,45 @@ img {
       }
 
 @import "jekyll-theme-minimal";
+
+.container {
+        display: flex;
+        align-items: top; /* Aligns items vertically center */
+        margin-top: 0px;
+        width: 95%;
+    }
+.image-section {
+        flex: 0 0 30%; /* Fixes the image section width to 40% */
+      }
+.image-section img {
+        margin-right: 0px; /* Adds space between the image and text */
+        margin-top: 15px;
+        height: auto; /* Ensures the image scales properly */
+        width:100%
+    }
+.text-section {
+        flex: 0 0 75%; /* Fixes the text section width to 60% */
+        padding: 10px; /* Adds padding for better text readability */
+        text-align: justify;
+        color: black;
+        font-family:Arial, Helvetica, sans-serif;
+        line-height: 120%;
+}
+
+/* Solid border */
+hr.solid {
+        border-top: 1px solid #bbbbbbd9;
+        margin-bottom:4px;
+        margin-top:2px;
+      }
+
+.title{
+        line-height: 100%; 
+        color:black; 
+        width : 100%; 
+        font-size : 20px;
+        font-weight: 550; 
+        margin-bottom:5px; 
+        margin-top:40px;
+        font-family:Arial, Helvetica, sans-serif;
+}
