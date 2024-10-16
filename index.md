@@ -23,11 +23,11 @@ Coming soon
     <img src="/assets/img/diffuserlearning-480p.gif" alt="Diffuser Learning">
   </div>
   <div class="text-section">
-    <span style="font-size:16px;color:black;margin-bottom:0;font-weight:600;"><a href="https://openreview.net/forum?id=JJwoJOW4PVZ" target="_blank"> Physics-based learning: Algorithms and optics co-design </a> <br>
-    </span> 
-    <span style="font-size:13px;color:black;margin-bottom:0;">Eric Markley*, <b>Fanglin Linda Liu*</b>(equal contribution), Michael Kellman, Nick Antipa, and Laura Waller<br>
+    <p class="title-paper"><a href="https://openreview.net/forum?id=JJwoJOW4PVZ" target="_blank"> Physics-based learning: Algorithms and optics co-design </a> <br>
+    </p> 
+    <p class="authorlist">Eric Markley*, <b>Fanglin Linda Liu*</b>(equal contribution), Michael Kellman, Nick Antipa, and Laura Waller<br>
     <i>NeurIPS 2021 Workshop on Deep Learning and Inverse Problems</i> <br> 
-    </span>
+    </p>
     <span style="font-size:13px;color:black;margin-bottom:0;">
       <a href="https://youtu.be/MNYIUbEIhEk?t=3932" target="_blank"> [Youtube]</a> 
       <a href="https://openreview.net/pdf?id=JJwoJOW4PVZ" target="_blank"> [pdf] </a> 
@@ -42,14 +42,14 @@ Coming soon
 
 <div class="container">
   <div class="image-section">
-    <iframe width="100%" height=auto style="margin-top: 13px" src="https://www.youtube.com/embed/Y8SLZr-cwiY?start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img style="margin-top: 20px" src="/assets/img/Celegans-480p.gif" alt="C. elegans Reconstruction">
   </div>
   <div class="text-section">
-    <span style="font-size:16px;color:black;margin-bottom:0;font-weight:600;"><a href="https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-20-28969&id=439689" target="_blank"> Fourier DiffuserScope: Single-shot 3D Microscopy with a diffuser </a> <br>
-    </span> 
-    <span style="font-size:13px;color:black;margin-bottom:0;"><b>Fanglin Linda Liu</b>, Grace Kuo, Nick Antipa, Laura Waller<br>
+    <p class="title-paper"><a href="https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-20-28969&id=439689" target="_blank"> Fourier DiffuserScope: Single-shot 3D Microscopy with a diffuser </a> <br>
+    </p> 
+    <p class="authorlist"><b>Fanglin Linda Liu</b>, Grace Kuo, Nick Antipa, Laura Waller<br>
     <i>Optics Express 28, 28969 (2020)</i> <br> 
-    </span>
+    </p>
     <span style="font-size:13px;color:black;margin-bottom:0;">
       <a href="https://www.youtube.com/embed/Y8SLZr-cwiY?start=0" target="_blank"> [Youtube]</a> 
       <a href="https://opg.optica.org/oe/viewmedia.cfm?uri=oe-28-20-28969&seq=0" target="_blank"> [pdf] </a> 
@@ -64,14 +64,14 @@ Coming soon
 
 <div class="container">
   <div class="image-section">
-    <iframe width="100%" height=auto style="margin-top: 13px" src="https://www.youtube.com/embed/AXQ7DiBAu2I?start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <img style="margin-top: 20px" src="/assets/img/microfluidic_channel_video.gif" alt="microfluid beads">
   </div>
   <div class="text-section">
-    <span style="font-size:16px;color:black;margin-bottom:0;font-weight:600;"><a href="https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-6-8384&id=428841" target="_blank"> On chip fluorescence microscopy with a random microlens diffuser </a> <br>
-    </span> 
-    <span style="font-size:13px;color:black;margin-bottom:0;">Grace Kuo,<b>Fanglin Linda Liu</b>, Kristina Monakhova, Kyrollos Yanny, Ren Ng, Laura Waller<br>
+    <p class="title-paper"><a href="https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-6-8384&id=428841" target="_blank"> On chip fluorescence microscopy with a random microlens diffuser </a> <br>
+    </p> 
+    <p class="authorlist">Grace Kuo,<b>Fanglin Linda Liu</b>, Kristina Monakhova, Kyrollos Yanny, Ren Ng, Laura Waller<br>
     <i>Optics Express 28, 8384 (2020)</i> <br> 
-    </span>
+    </p>
     <span style="font-size:13px;color:black;margin-bottom:0;">
       <a href="https://www.youtube.com/embed/AXQ7DiBAu2I?start=0" target="_blank"> [Youtube]</a> 
       <a href="https://opg.optica.org/oe/viewmedia.cfm?uri=oe-28-6-8384&seq=0" target="_blank"> [pdf] </a> 
