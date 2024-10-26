@@ -3,7 +3,7 @@ layout: default
 ---
 <p align="justify" style="line-height: 160%;color:black;width:100%;" class="p2">
 Nice to meet you 😃 <br>
-I am Linda, a 📸camera engineer working on sensing systems for ✈️flying robots and 🤖humanoid robots. I've developed camera modules, lenses, depth sensors, illumination LEDs and thermal sensors that enable the entire robotic sensing systems to perceive and interact with the world around them. Before joining the industry, I earned my 👩‍🎓PhD in Electrical Engineering and Computer Sciences from UC Berkeley, where I was advised by Prof. Laura Waller. My PhD research focused on 🔬computational optics—a multidisciplinary field combining optical hardware, physical modeling, optimization algorithms, and machine learning.
+I am Linda, a 📸camera engineer working on sensing systems for ✈️flying robots and 🤖humanoid robots. I've developed camera modules, lenses, depth sensors, illumination LEDs and thermal sensors that enable the entire robotic sensing systems to perceive and interact with the world around them. Before joining the industry, I earned my 👩‍🎓PhD in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences from UC Berkeley</a>, where I was advised by <a href="https://www.laurawaller.com/">Prof. Laura Waller</a>. My PhD research focused on 🔬<a href="https://search.proquest.com/openview/e9916003fea6976f7d7cf963b34a5bd5/1?pq-origsite=gscholar&cbl=18750&diss=y">computational optics</a>—a multidisciplinary field combining optical hardware, physical modeling, optimization algorithms, and machine learning.
 </p>
 
 <div class="title">
@@ -93,7 +93,7 @@ Coming soon
 
 <div class="container">
   <div class="image-section">
-    <img style="margin-top: 20px" src="/assets/img/robotsalute.gif" alt="microfluid beads">
+    <img style="margin-top: 20px" src="/assets/img/robotsalute.gif" alt="Robot Cafe">
   </div>
   <div class="text-section">
     <p class="company"> Google X, the moonshot factory
@@ -119,7 +119,7 @@ Coming soon
 
 <div class="container">
   <div class="image-section">
-    <img style="margin-top: 20px" src="/assets/img/Silica.gif" alt="microfluid beads">
+    <img style="margin-top: 20px" src="/assets/img/Silica.gif" alt="Project Silica">
   </div>
   <div class="text-section">
     <p class="company"> Microsoft Research
@@ -147,31 +147,57 @@ Coming soon
   Community Services, Teaching and Mentoring
 </div>
 <hr class="solid">
-### Chinese Graduate and Postdoctoral Scholars Association at UC Berkeley (<a href="https://cgpsa.berkeley.edu" target="_blank">CGPSA</a>)
-<ul><table>
-  <tr>
-    <td style="width:20%;border:none;"> <img src="/assets/img/cgpsa.jpeg" height="50"  alt="CGPSA Logo"> </td>
-    <td style="border:none;">President, 2018 -- 2019</td>
-   </tr> 
-</table></ul>
 
-### Women in Computer Science and Electrical Engineering (<a href="https://inst.eecs.berkeley.edu/~wicse/" target="_blank">WICSE</a>)
-<ul><table>
-  <tr>
-    <td style="width:20%;border:none;"> <img src="/assets/img/wicse.png" height="30"  alt="WICSE Logo"> </td>
-    <td style="border:none;">Officer, 2017 -- 2018</td>
-   </tr> 
-</table></ul>
+<div class="container">
+  <div class="image-section">
+    <center><img style="margin-top: 20px;width:80%" src="/assets/img/cgpsa.jpeg" alt="CGPSA Logo"></center>
+  </div>
+  <div class="text-section">
+    <p class="company"> Chinese Graduate and Postdoctoral Scholars Association at UC Berkeley (<a href="https://cgpsa.berkeley.edu" target="_blank">CGPSA</a>)
+    </p>
+    <p class="authorlist">President <br>
+    2018 – 2019 <br> 
+    </p>
+    <span style="font-size:13px;color:black;margin-bottom:0;">
+      <a href="https://mp.weixin.qq.com/s/vXJrhuH5zcXqzmqaLF4HlA" target="_blank"> [2019 Chinese New Year]</a> 
+      <a href="https://mp.weixin.qq.com/s/7G6LVYDL5VWqT2-4oZDlHg" target="_blank"> [2018 New Student Reception]</a> <br>
+      <a href="https://mp.weixin.qq.com/s/aMoLpG_hpU5v2ZrdL6sSKA" target="_blank"> [2018 Fall Hiking] </a> 
+      <a href="https://mp.weixin.qq.com/s/iLeoFNW1suosG4GqZziUOQ" target="_blank"> [2019 Spring Hiking] </a> 
+    <br>
+    </span> 
+    <br>
+  </div>
+</div>
 
-### Berkeley <a href="https://eecs16a.org" target="_blank">EECS16A</a>: Designing Informative Devices and Systems 
-<ul><table>
-  <tr>
-    <td style="width:20%;border:none;"><img src="/assets/img/eecs16a.png" height="80"  alt="EECS16A Course Logo"></td>
-    <td style="border:none;">Head Content TA, Spring 2019 <BR> Content TA, Fall 2021</td>
-   </tr> 
-</table></ul>
+<div class="container">
+  <div class="image-section">
+    <center><img style="margin-top: 20px;width:80%" src="/assets/img/wicse.png" alt="WICSE Logo"></center>
+  </div>
+  <div class="text-section">
+    <p class="company"> Women in Computer Science and Electrical Engineering (<a href="https://inst.eecs.berkeley.edu/~wicse/" target="_blank">WICSE</a>)
+    </p>
+    <p class="authorlist">Officer <br>
+    2017 - 2018 <br> 
+    </p>
+    <span style="font-size:13px;color:black;margin-bottom:0;">
+      <a href="https://newsletter.eecs.berkeley.edu/2020/09/wicse-history/" target="_blank"> [WICSE History]</a> 
+    <br>
+    </span> 
+    <br>
+  </div>
+</div>
 
-
-### Undergraduate Research Mentor
-Mentored 5 undergrads through "Research Experiences for Undergraduates" programs.
+<div class="container">
+  <div class="image-section">
+    <center><img style="margin-top: 10px; width:50%;" src="/assets/img/eecs16a.png" alt="EECS16A Course Logo"></center>
+  </div>
+  <div class="text-section">
+    <p class="company"> <a href="https://eecs16a.org" target="_blank">EECS16A</a>: Designing Informative Devices and Systems 
+    </p>
+    <p class="authorlist">Spring 2019: Head Content Teaching Assistant <br>
+    Fall 2021: Content Teaching Assistant <br> 
+    </p>
+    <br>
+  </div>
+</div>
 
