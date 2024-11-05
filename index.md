@@ -3,7 +3,7 @@ layout: default
 ---
 <p align="justify" style="line-height: 160%;color:black;width:100%;" class="p2">
 Nice to meet you 😃 <br>
-I am Linda, a 📸camera engineer working on sensing systems for ✈️flying robots and 🤖humanoid robots. I've developed camera modules, lenses, depth sensors, illumination LEDs and thermal sensors that enable the entire robotic sensing systems to perceive and interact with the world around them. Before joining the industry, I earned my 👩‍🎓PhD in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences from UC Berkeley</a>, where I was advised by <a href="https://www.laurawaller.com/">Prof. Laura Waller</a>. My PhD research focused on 🔬<a href="https://search.proquest.com/openview/e9916003fea6976f7d7cf963b34a5bd5/1?pq-origsite=gscholar&cbl=18750&diss=y">computational optics</a>—a multidisciplinary field combining optical hardware, physical modeling, optimization algorithms, and machine learning.
+I am Linda, a 📸camera engineer working on sensing systems for ✈️flying robots and 🤖humanoid robots. I've developed camera modules, lenses, depth sensors, illumination LEDs and thermal sensors that enable the entire robotic sensing systems to perceive and interact with the world around them. Before joining the industry, I earned my 👩‍🎓PhD in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences from UC Berkeley</a>, where I was advised by <a href="https://www.laurawaller.com/">Prof. Laura Waller</a>. <a href="https://search.proquest.com/openview/e9916003fea6976f7d7cf963b34a5bd5/1?pq-origsite=gscholar&cbl=18750&diss=y">My PhD research</a> focused on 🔬computational optics—a multidisciplinary field combining optical hardware, physical modeling, optimization algorithms, and machine learning.
 </p>
 
 <div class="title">
@@ -93,6 +93,31 @@ Coming soon
 
 <div class="container">
   <div class="image-section">
+    <img style="margin-top: 20px" src="/assets/img/X10Sensor-480p.gif" alt="X10 Sensor">
+  </div>
+  <div class="text-section">
+    <p class="company"> Skydio
+    </p>
+    <p class="company-project">Project: <a href="https://www.skydio.com/x10" target="_blank">X10 Camera</a>  
+     <br>
+    </p> 
+    <p class="authorlist">Camera Engineer <br>
+    2023 May – Present <br> 
+    </p>
+    <span style="font-size:13px;color:black;margin-bottom:0;">
+      <a href="https://youtu.be/X26Z9ubebNk?si=pN9LxIEfjC5eZEEq&t=1079" target="_blank"> [X10 Keynote]</a> 
+    <br>
+    </span> 
+    <br>
+    <span style="font-size:13px; font-weight: 100; margin-bottom:0;">
+    Skydio X10 is a cutting-edge drone featuring the most advanced cameras, including a 64MP narrow, 50MP wide, 48MP telephoto, 640 thermal cameras. The drone also incorporates visible and IR navigation cameras for seamless operation both day and night. Powered by the most advanced AI, X10 enables autonomous flight and obstable avoidance at any time.
+    X10 was unveiled at the company's 2023 keynote, where my contributions to the camera systems were showcased during the opening "<a href="https://youtu.be/YHNitnLC44w?si=14uQkqfndDHhWrWh&t=72" target="_blank">Sensor Package</a>" session for user cameras and "<a href="https://youtu.be/4pTD7_us5zI?si=8Ain3-AfxTd-q4kK&t=11" target="_blank">Night Sense</a>" session for navigation cameras.
+    </span>
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-section">
     <img style="margin-top: 20px" src="/assets/img/robotsalute.gif" alt="Robot Cafe">
   </div>
   <div class="text-section">
@@ -101,7 +126,7 @@ Coming soon
     <p class="company-project">Project: <a href="https://x.company/projects/everyday-robots/" target="_blank">Everyday Robots </a>  
      <br>
     </p> 
-    <p class="authorlist">Hardware sensing engineer <br>
+    <p class="authorlist">Hardware Sensing Engineer <br>
     2022 Feb – 2023 Apr <br> 
     </p>
     <span style="font-size:13px;color:black;margin-bottom:0;">
@@ -150,7 +175,7 @@ Coming soon
 
 <div class="container">
   <div class="image-section">
-    <center><img style="margin-top: 20px;width:80%" src="/assets/img/cgpsa.jpeg" alt="CGPSA Logo"></center>
+    <center><img style="margin-top: 20px;width:70%" src="/assets/img/cgpsa.jpeg" alt="CGPSA Logo"></center>
   </div>
   <div class="text-section">
     <p class="company"> Chinese Graduate and Postdoctoral Scholars Association at UC Berkeley (<a href="https://cgpsa.berkeley.edu" target="_blank">CGPSA</a>)
@@ -171,7 +196,7 @@ Coming soon
 
 <div class="container">
   <div class="image-section">
-    <center><img style="margin-top: 20px;width:80%" src="/assets/img/wicse.png" alt="WICSE Logo"></center>
+    <center><img style="margin-top: 20px;width:70%" src="/assets/img/wicse.png" alt="WICSE Logo"></center>
   </div>
   <div class="text-section">
     <p class="company"> Women in Computer Science and Electrical Engineering (<a href="https://inst.eecs.berkeley.edu/~wicse/" target="_blank">WICSE</a>)
@@ -189,7 +214,7 @@ Coming soon
 
 <div class="container">
   <div class="image-section">
-    <center><img style="margin-top: 10px; width:50%;" src="/assets/img/eecs16a.png" alt="EECS16A Course Logo"></center>
+    <center><img style="margin-top: 0px; width:50%;" src="/assets/img/eecs16a.png" alt="EECS16A Course Logo"></center>
   </div>
   <div class="text-section">
     <p class="company"> <a href="https://eecs16a.org" target="_blank">EECS16A</a>: Designing Informative Devices and Systems 
