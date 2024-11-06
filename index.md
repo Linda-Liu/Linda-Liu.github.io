@@ -3,7 +3,7 @@ layout: default
 ---
 <p align="justify" style="line-height: 160%;color:black;width:100%;" class="p2">
 Nice to meet you 😃 <br>
-I am Linda, a 📸camera engineer working on sensing systems for ✈️flying robots and 🤖humanoid robots. I've developed camera modules, lenses, depth sensors, illumination LEDs and thermal sensors that enable the entire robotic sensing systems to perceive and interact with the world around them. Before joining the industry, I earned my 👩‍🎓PhD in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences from UC Berkeley</a>, where I was advised by <a href="https://www.laurawaller.com/">Prof. Laura Waller</a>. <a href="https://search.proquest.com/openview/e9916003fea6976f7d7cf963b34a5bd5/1?pq-origsite=gscholar&cbl=18750&diss=y">My PhD research</a> focused on 🔬computational optics—a multidisciplinary field combining optical hardware, physical modeling, optimization algorithms, and machine learning.
+I am Linda, a 📸camera engineer working on sensing systems for ✈️flying robots and 🤖humanoid robots. I've developed camera modules, lenses, depth sensors, illumination LEDs and thermal sensors that enable the entire robotic sensing systems to perceive and interact with the world around them. Before joining the industry, I earned my 👩‍🎓PhD in <a href="https://eecs.berkeley.edu/">Electrical Engineering and Computer Sciences from UC Berkeley</a>, where I was advised by <a href="https://www.laurawaller.com/">Prof. Laura Waller</a>. My <a href="https://search.proquest.com/openview/e9916003fea6976f7d7cf963b34a5bd5/1?pq-origsite=gscholar&cbl=18750&diss=y">PhD research</a> focused on 🔬computational optics—a multidisciplinary field combining optical hardware, physical modeling, optimization algorithms, and machine learning.
 </p>
 
 <div class="title">
@@ -110,8 +110,8 @@ Coming soon
     </span> 
     <br>
     <span style="font-size:13px; font-weight: 100; margin-bottom:0;">
-    Skydio X10 is a cutting-edge drone featuring the most advanced cameras, including a 64MP narrow, 50MP wide, 48MP telephoto, 640 thermal cameras. The drone also incorporates visible and IR navigation cameras for seamless operation both day and night. Powered by the most advanced AI, X10 enables autonomous flight and obstable avoidance at any time.
-    X10 was unveiled at the company's 2023 keynote, where my contributions to the camera systems were showcased during the opening "<a href="https://youtu.be/YHNitnLC44w?si=14uQkqfndDHhWrWh&t=72" target="_blank">Sensor Package</a>" session for user cameras and "<a href="https://youtu.be/4pTD7_us5zI?si=8Ain3-AfxTd-q4kK&t=11" target="_blank">Night Sense</a>" session for navigation cameras.
+    Skydio X10 is a cutting-edge drone featuring the most advanced cameras, including a 64MP narrow, 50MP wide, 48MP telephoto, 640 thermal cameras. The drone also incorporates visible and IR navigation cameras for seamless operation both day and night. Powered by the most advanced AI, X10 enables autonomous flight and obstable avoidance.
+    X10 was unveiled at the company's 2023 keynote, where my contributions to the camera systems were showcased during the "<a href="https://youtu.be/YHNitnLC44w?si=14uQkqfndDHhWrWh&t=72" target="_blank">Sensor Package</a>" session for user cameras and "<a href="https://youtu.be/4pTD7_us5zI?si=8Ain3-AfxTd-q4kK&t=11" target="_blank">Night Sense</a>" session for navigation cameras.
     </span>
   </div>
 </div>

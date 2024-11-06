@@ -16,16 +16,18 @@ img {
         border: none;
         display: inline-block;
 	width: 200px;
+        height: 30px;
         margin: 0px;
         padding: 0px;
+        width: 99%;
       }
       #text{
 	vertical-align: middle;
-        font-size: 16px;
+        font-size: 15px;
 }
       #icon {
 	vertical-align: middle;
-        font-size: 25px;
+        font-size: 22px;
       }
 
 @import "jekyll-theme-minimal";
